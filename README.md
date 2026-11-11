@@ -6,9 +6,9 @@ A lightweight prop script for film and drama scenes that displays a continuous, 
 Designed for horror, sci-fi, psychological thriller, or supernatural drama productions where a computer terminal, hacker monitor, or distress screen displays uncontrollable looping distress messages.
 
 ### Message Content
-> *"I WANT TO GO HOME, I WANT TO GO HOME, I WANT TO GO HOME !!! I DON’T WANT TO BE WITH THE ALIEN !!! I DON’T WANT TO BE WITH THE SPIRIT !!! I HATE THE ALIENS AND SPIRITS SO DEEP MORE THAN BOTTOMLESS PIT !!! ... I WANT TO GO HOME !!! ... "*
+> *"I WANT TO GO HOME, I WANT TO GO HOME, I WANT TO GO HOME !!! I DON’T WANT TO BE WITH THE ALIEN !!! I DON’T WANT TO BE WITH THE SPIRIT !!! I HATE THE ALIENS AND SPIRITS SO DEEP MORE THAN BOTTOMLESS PIT !!! GIVE ME BACK MY MONEY !!! ... I WANT TO GO HOME !!! ... "*
 
-The complete script contains the full 15,769-character extended distress monologue (4,168 words / 406 phrases), preserved in `text.txt` and embedded in `loop.py`.
+The complete script contains the full 16,705-character extended distress monologue (4,384 words), preserved in `text.txt` and embedded in `loop.py`.
 
 ## Quick Start On Any New VPS
 

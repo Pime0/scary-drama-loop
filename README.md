@@ -10,16 +10,24 @@ Designed for horror, sci-fi, psychological thriller, or supernatural drama produ
 
 The complete script contains the full 15,769-character extended distress monologue (4,168 words / 406 phrases), preserved in `text.txt` and embedded in `loop.py`.
 
-## Quick Start
+## Quick Start On Any New VPS
 
-### 1. Direct Python Execution
+### Linux VPS (Ubuntu / Debian / CentOS)
+Run this single command on your new VPS terminal:
 ```bash
-python loop.py
+git clone https://github.com/Pime0/scary-drama-loop.git && cd scary-drama-loop && python3 loop.py
 ```
 
-### 2. Windows 1-Click Launchers
-- **`start.bat`**: Double-click to launch in Command Prompt with black background and red text.
-- **`start.ps1`**: PowerShell script with configurable arguments.
+### Windows VPS (PowerShell)
+Run this single command in PowerShell on your new VPS:
+```powershell
+git clone https://github.com/Pime0/scary-drama-loop.git; cd scary-drama-loop; python loop.py
+```
+
+### 1-Click Launchers
+- **Linux / Mac**: `chmod +x start.sh && ./start.sh`
+- **Windows Batch**: Double-click `start.bat`
+- **Windows PowerShell**: `.\start.ps1`
 
 ## Customization Options
 
